@@ -1,0 +1,7 @@
+{
+  "name": "gatsby-plugin-create-content-pages",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "rmp <rogermparent@gmail.com>",
+  "license": "MIT"
+}
